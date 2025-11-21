@@ -4,4 +4,4 @@ a = int(input("Nhap vao so nguyen: "))
 print("so vua nhap la",a)
 
 
-# a hihi sơn khìn
+# a hihi sang khìn
